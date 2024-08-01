@@ -1,0 +1,117 @@
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+1
+Your current balance is: $0
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+1.
+Invalid option. Please choose a number between 1 and 6.
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+3
+Enter amount to deposit: 
+1000
+$1000.0 has been deposited.
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+2
+Enter amount to withdraw: 
+500
+$500.0 has been withdrawn.
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+5
+Transaction History:
+Balance inquiry: $0
+Deposited: $1000.0
+Withdrew: $500.0
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+4
+Enter old PIN: 
+0000
+Enter new PIN: 
+6642
+Incorrect old PIN.
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+5
+Transaction History:
+Balance inquiry: $0
+Deposited: $1000.0
+Withdrew: $500.0
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+1
+Your current balance is: $500.0
+
+--- ATM Machine ---
+1. Check Balance
+2. Withdraw Cash
+3. Deposit Cash
+4. Change PIN
+5. Show Transaction History
+6. Exit
+Choose an option (1-6): 
+6
+Thank you for using the ATM. Goodbye!
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
