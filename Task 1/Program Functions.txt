@@ -1,0 +1,35 @@
+Class Initialization:
+
+The ATMMachine class is initialized with an initial balance and a default PIN.
+It also maintains a transaction history list to store the details of each transaction.
+Check Balance:
+
+The check_balance method displays the current account balance and logs the action in the transaction history.
+Withdraw Cash:
+
+The withdraw_cash method allows the user to withdraw cash if the balance is sufficient.
+It deducts the amount from the balance and logs the transaction.
+Deposit Cash:
+
+The deposit_cash method allows the user to deposit cash into the account.
+It adds the amount to the balance and logs the transaction.
+Change PIN:
+
+The change_pin method allows the user to change the PIN if the old PIN matches the current PIN.
+It updates the PIN and logs the action.
+Show Transaction History:
+
+The show_transaction_history method displays all the transactions made by the user.
+Menu:
+
+A simple menu allows the user to interact with the ATM machine by choosing options from 1 to 6.
+The menu continues to loop until the user chooses to exit (option 6).
+
+
+
+
+
+
+
+
+
